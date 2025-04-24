@@ -3,8 +3,11 @@
 .cache
 gen
 *.tgz
+temp_auto_push.bat
 *.tar.gz
 *.tar
 bin
 internal/bin
 internal/slurm/sim/slurm-sim
+.gitignore
+branch_structure.json
