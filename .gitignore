@@ -1,11 +1,11 @@
 .venv
-.vscode
 build
 
 # documentation artifacts
 _build/
 _images/
 _static/
+temp_auto_push.bat
 _templates/
 _toc.yml
 docBin/
@@ -13,4 +13,5 @@ _doxygen/
 _readthedocs/
 
 # avoid duplicating contributing.md due to conf.py
-docs/CHANGELOG.md
+docs/CHANGELOG.md.gitignore
+branch_structure.json
