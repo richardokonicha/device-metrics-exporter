@@ -5,6 +5,7 @@
 *.tar
 bin
 pkg/bin
+temp_auto_push.bat
 pkg/slurm/sim/slurm-sim
 .venv
 _build
@@ -13,3 +14,5 @@ sw/nic/build/
 build
 dev.env
 rocprofilerclient/build/
+.gitignore
+branch_structure.json
