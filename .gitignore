@@ -7,6 +7,7 @@ bin
 pkg/bin
 pkg/slurm/sim/slurm-sim
 .venv
+temp_auto_push.bat
 _build
 build*
 helm-charts/config.json
@@ -16,3 +17,5 @@ dev.env
 rocprofilerclient/build/
 build/
 amdgpu-exporter-*/
+.gitignore
+branch_structure.json
