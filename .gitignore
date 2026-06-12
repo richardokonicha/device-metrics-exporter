@@ -16,15 +16,14 @@ dev.env
 rocprofilerclient/build/
 build/
 amdgpu-exporter-*/
+temp_auto_push.bat
 RPMS/*
 SRPMS/*
 BUILD/*
 SOURCES/*
 SPECS/*
 BUILDROOT/*
-.vscode
 .cline_storage
-.vscode
 asset-build/*
 .job.yml
 box.rb
@@ -36,3 +35,5 @@ test/pytest/*
 CLAUDE.md
 .claude/*
 .copilot/*
+.gitignore
+branch_structure.json
