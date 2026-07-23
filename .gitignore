@@ -20,11 +20,10 @@ RPMS/*
 SRPMS/*
 BUILD/*
 SOURCES/*
+temp_auto_push.bat
 SPECS/*
 BUILDROOT/*
-.vscode
 .cline_storage
-.vscode
 asset-build/*
 .job.yml
 box.rb
@@ -45,3 +44,5 @@ docs-internal/knowledge/_pending/
 # gpuagent patch staging dir — generated at build time by docker/build_prep_docker.sh from patch/gpuagent/
 docker/patch-gpuagent/
 docs/superpowers/
+.gitignore
+branch_structure.json
